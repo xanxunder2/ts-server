@@ -1,0 +1,34 @@
+{
+  "bot": {
+    "name": "𝐄𝐌𝐨𝐧 𝐁𝐨𝐭",
+    "description": "Official Emon Bot System Update",
+    "owner": "https://www.facebook.com/EMon.BHai.FACEBOOK",
+    "links": {
+      "replit": "https://replit.com/@sharifvau4/EMon-BHai-Bot",
+      "github": "https://github.com/sharifvau/EMon-BHai-Bot"
+    }
+  },
+
+  "updates": {
+    "latest_version": "4.1.0",
+    "previous_version": "1.0.1",
+    "update_status": "Stable Release",
+    "new_command": "No Added ❌",
+    "changelog": [
+      "Fixed login bug",
+      "Improved ban security",
+      "Optimized CPU usage"
+    ],
+    "update_files": [
+      "main.js",
+      "main/system/listen.js",
+      "package.json"
+    ]
+  },
+
+  "display_settings": {
+    "show_startup_popup": true,
+    "show_update_alert": true,
+    "show_new_commands": true
+  }
+}

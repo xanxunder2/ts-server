@@ -1,0 +1,17 @@
+{
+  "cmdName": [
+    {
+      "cmd": "4k",
+      "emon": "nayan",
+      "emon2": "28/06/2034",
+      "status": "on"
+    },
+    {
+      "cmd": "igPrefix",
+      "emon": "EMON",
+      "emon2": "28/06/2024",
+      "status": "on"
+    }
+  
+  ]
+}

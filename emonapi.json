@@ -1,0 +1,10 @@
+{
+  "main": "http://fi3.bot-hosting.net:20536",
+  "gpt": "http://de1.bot-hosting.net:20149",
+  "alldown": "https://emon-downloader.onrender.com",
+  "alldown2": "https://emon-video-downloader.onrender.com/",
+  "shoti": "https://shoti-srv1.onrender.com",
+  "gemini": "https://gemini-api-l3g4.onrender.com",
+  "emongemini": "https://gemini-pro-ruv4.onrender.com",
+  "geminipro": "https://gemini-pro-production-2c55.up.railway.app"
+}
