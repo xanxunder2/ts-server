@@ -1,12 +1,12 @@
 {
-  "name": "ryuko",
-  "version": "5.0.4",
-  "description": "simple facebook messenger bot",
+  "name": "ts-official-bot-system",
+  "version": "6.0.1",
+  "description": "simple system pkg",
   "main": "main/execute/main.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "billy",
+  "author": "Tanvir Sheikh",
   "license": "ISC",
   "dependencies": {
     "@bochilteam/scraper-tiktok": "^5.0.0",
